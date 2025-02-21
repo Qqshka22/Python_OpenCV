@@ -6,8 +6,13 @@
 
 ## :wave: How to work
 
-1. скачать все файлы проекта
-2. запустите файл main.py 
+1. Скачайте все файлы проекта
+2. Установите необходимые библиотеки
+      >pip install opencv-python
+      >pip install pyautogui
+      >pip install mediapipe
+4. Запустите файл main.py
+   
    
 
 ## :hammer_and_wrench: Instruments
